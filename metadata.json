@@ -1,0 +1,6 @@
+{
+  "name": "Parul AI",
+  "description": "Voice assistant named Parul with female voice that schedules tasks, summarizes daily emails, and follows natural language commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
